@@ -42,7 +42,7 @@ input{
 
 #Result{
     height: 30px;
-    width: 150px;
+    width: 300px;
     background-color: white;
     border-color: black;
     border-width: 1px;
@@ -51,4 +51,12 @@ input{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#MouseOver{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 25px;
+    width: fit-content;
+    margin: 0px auto
 }
