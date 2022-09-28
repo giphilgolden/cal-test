@@ -1,0 +1,54 @@
+body{
+    background-color: aquamarine;
+}
+
+#Header{
+    text-align: center;;
+}
+
+h1{
+    font-size: 100px;
+}
+
+#Body{
+    text-align: center;
+    font-size: 40px;
+}
+
+#Buttons{
+    text-align: center;
+    margin-top: 25px;
+}
+
+button{
+    width: 35px;
+    height: 35px;
+}
+
+#Equals{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+input{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+#Result{
+    height: 30px;
+    width: 150px;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    font-size: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
